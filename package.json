@@ -1,0 +1,13 @@
+{
+  "name": "node-web-server",
+  "version": "1.0.0",
+  "description": "A simple Node.js web server with routing for laundry services",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["nodejs", "http", "web-server", "routing"],
+  "author": "Student",
+  "license": "MIT"
+}
