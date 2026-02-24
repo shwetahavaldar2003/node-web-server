@@ -8,6 +8,6 @@
     "dev": "node server.js"
   },
   "keywords": ["nodejs", "http", "web-server", "routing"],
-  "author": "Student",
+  "author": "Shweta",
   "license": "MIT"
 }
